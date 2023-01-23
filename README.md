@@ -1,5 +1,5 @@
-# Video Pose Estimation
-It takes a fitness video (with a single person), runs 2D/3D pose estimation, and then outputs JSON files of 2D/3D coordinates of key joints and facial features.
+# Video pose estimation
+The VSCode `video3D.py` takes a fitness video (with a single person), runs 2D/3D pose estimation, and then outputs JSON files of 2D/3D coordinates of key joints and facial features.
 
 ## Environment
 * VSCode 1.71.2
